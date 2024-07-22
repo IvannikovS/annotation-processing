@@ -1,0 +1,7 @@
+test/
+annotation-processing/Api/
+annotation-processing/model/
+annotation-processing/SimpleModelShop/
+annotation-processing/annotated_classes.txt
+annotation-processing/components.txt
+annotation-processing/.idea/
